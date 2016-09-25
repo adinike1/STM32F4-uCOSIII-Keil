@@ -1,5 +1,9 @@
 # Object files
 *.o
+*.d
+*.crf
+*.htm
+*.sct
 *.ko
 *.obj
 *.elf
@@ -31,3 +35,8 @@
 # Debug files
 *.dSYM/
 *.su
+*.map
+*.lst
+
+# Keil
+*.dep
