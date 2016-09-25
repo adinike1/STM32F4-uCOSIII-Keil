@@ -707,21 +707,6 @@
           <GroupName>uC/CPU</GroupName>
           <Files>
             <File>
-              <FileName>cpu.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\..\..\STM32F427II\UCOSIII\uC-CPU\ARM-Cortex-M4\RealView\cpu.h</FilePath>
-            </File>
-            <File>
-              <FileName>cpu_a.asm</FileName>
-              <FileType>2</FileType>
-              <FilePath>..\..\..\STM32F427II\UCOSIII\uC-CPU\ARM-Cortex-M4\RealView\cpu_a.asm</FilePath>
-            </File>
-            <File>
-              <FileName>cpu_c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\..\STM32F427II\UCOSIII\uC-CPU\ARM-Cortex-M4\RealView\cpu_c.c</FilePath>
-            </File>
-            <File>
               <FileName>cpu_core.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\UCOSIII\uC-CPU\cpu_core.c</FilePath>
@@ -735,6 +720,21 @@
               <FileName>cpu_def.h</FileName>
               <FileType>5</FileType>
               <FilePath>..\..\UCOSIII\uC-CPU\cpu_def.h</FilePath>
+            </File>
+            <File>
+              <FileName>cpu_c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\UCOSIII\uC-CPU\ARM-Cortex-M4\RealView\cpu_c.c</FilePath>
+            </File>
+            <File>
+              <FileName>cpu.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\..\UCOSIII\uC-CPU\ARM-Cortex-M4\RealView\cpu.h</FilePath>
+            </File>
+            <File>
+              <FileName>cpu_a.asm</FileName>
+              <FileType>2</FileType>
+              <FilePath>..\..\UCOSIII\uC-CPU\ARM-Cortex-M4\RealView\cpu_a.asm</FilePath>
             </File>
           </Files>
         </Group>
